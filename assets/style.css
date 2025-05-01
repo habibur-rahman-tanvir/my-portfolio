@@ -1,3 +1,23 @@
-body{
-    background-color: darkcyan;
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: "Lucida Sans", sans-serif;
+}
+.container {
+}
+
+:root {
+    /* --header-hight: 200px */
+}
+
+header {
+    background-color: rgba(128, 0, 128, 0.5);
+    position: absolute;
+    color: white;
+    width: 99%;
+    top: 0.5%;
+    left: 50%;
+    transform: translateX(-50%);
 }

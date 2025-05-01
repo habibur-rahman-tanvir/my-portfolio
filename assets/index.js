@@ -1,1 +1,1 @@
-alert("I am index.js");
+// alert("I am index.js");
